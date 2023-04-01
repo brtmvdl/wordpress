@@ -1,0 +1,5 @@
+# wordpress
+
+## License
+
+[MIT](./LICENSE)
